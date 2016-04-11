@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+
+    <string name="sets">Sets</string>
+    <string name="episodres"> Episodes </string>
+    <string name="madeby">App made by Manuel Jimenez</string>
+
+
+</resources>
